@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou Felipe Freitas
 
-<!--
-**FelipeFreitasdaSilva/FelipeFreitasdaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Back-end Java Developer focused on Spring Boot and APIs.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Spring Boot
+* PostgreSQL
+* MongoDB
+* Git & GitHub
+
+## 📚 Atualmente estudando
+
+* Spring Security
+* JPA / Hibernate
+* APIs REST
+* Boas práticas de desenvolvimento
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade como desenvolvedor Back-end Java Jr.
+
+## 📫 Contato
+
+* LinkedIn: [www.linkedin.com/in/freitasfelipedev](http://www.linkedin.com/in/freitasfelipedev)
+
+---
+
+⭐ Sempre aprendendo e construindo novos projetos.
+
